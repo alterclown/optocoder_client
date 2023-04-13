@@ -24,7 +24,7 @@ export class AuthService {
     }
   }
 
-  isLoggedInLocalStorage():Observable<boolean> {
+  get isLoggedInLocalStorage():Observable<boolean> {
     const user = localStorage.getItem('user') as string;
     const userObj = JSON.parse(user);
     if (user){
@@ -34,6 +34,7 @@ export class AuthService {
   }
 
   logout() {                            // {4}
+    localStorage.removeItem("user");
     this.loggedIn.next(false);
     this.router.navigate(['/login']);
   }

@@ -21,7 +21,7 @@ export class AuthGuard implements CanActivate {
     next: ActivatedRouteSnapshot,
     state: RouterStateSnapshot
   ): Observable<boolean> {
-    return this.authService.isLoggedInLocalStorage()        // {1}
+    return this.authService.isLoggedIn        // {1}
       .pipe(
         take(1),                              // {2} 
         map((isLoggedIn: boolean) => {         // {3}
@@ -33,16 +33,4 @@ export class AuthGuard implements CanActivate {
         })
       )
   }
-
-  // canActivate(route: ActivatedRouteSnapshot, state: RouterStateSnapshot) {
-  //   console.log(';;;;')
-  //   if (!this.authService.isLoggedInLocalStorage()) {
-  //     return true
-  //   }
-
-  //   console.log()
-  //   //this.router.navigate(['/login'])
-
-  //   return false
-  // }
 }
