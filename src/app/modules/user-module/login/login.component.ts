@@ -38,7 +38,7 @@ export class LoginComponent implements OnInit {
       UserName:"rahi",
       Token:'abckddsafhadsjfhnjadsnfijads'
     }
-    localStorage.setItem('user', JSON.stringify(user));
-    this.authService.login(this.form.value);       
+    //localStorage.setItem('user', JSON.stringify(user));
+    this.authService.login(user);       
   }
 }
