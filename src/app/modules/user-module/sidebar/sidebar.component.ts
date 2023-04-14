@@ -13,10 +13,5 @@ export class SidebarComponent {
   constructor(private authService: AuthService) { }
 
   ngOnInit() {
-    this.isLoggedIn$ = this.authService.isLoggedIn;
-  }
-
-  onLogout() {
-    this.authService.logout();
   }
 }

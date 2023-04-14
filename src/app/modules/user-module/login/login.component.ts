@@ -31,6 +31,14 @@ export class LoginComponent implements OnInit {
   onSubmit() {
     this.formSubmitAttempt = true;
     // this.router.navigateByUrl('/demo');   
-    this.authService.login(this.form.value);       
+    // authenticate user and get token
+    // const token = 'abckddsafhadsjfhnjadsnfijads';
+    const user = {
+      UserId:1,
+      UserName:"rahi",
+      Token:'abckddsafhadsjfhnjadsnfijads'
+    }
+    //localStorage.setItem('user', JSON.stringify(user));
+    this.authService.login(user);       
   }
 }

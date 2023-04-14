@@ -11,6 +11,8 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './modules/user-module/login/login.component';
 import { AuthGuard } from './services/auth-services/authGuard';
 import { AuthService } from './services/auth-services/AuthService';
+import { Demo1Component } from './modules/user-module/demo1/demo1.component';
+import { Demo2Component } from './modules/user-module/demo2/demo2.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { AuthService } from './services/auth-services/AuthService';
     FooterComponent,
     SidebarComponent,
     DemoComponent,
-    LoginComponent
+    LoginComponent,
+    Demo1Component,
+    Demo2Component
   ],
   imports: [
     BrowserModule,
