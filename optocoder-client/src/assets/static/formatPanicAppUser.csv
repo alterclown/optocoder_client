@@ -1,0 +1,3 @@
+PersonID,Designation,FirstName,LastName,NickName,PhoneNo,Email,UserType,EmergencyPhone,DOB
+247-333,Student,Tareq,Haider,Sajib,#01673772066,haider@gmail.com,1,#01558964672,(1990-08-25)
+567-423,Security,Haider,Abdullah,Muhammad,#01558964672,abdullah@gmail.com,2,#01558964672,(1977-03-11)

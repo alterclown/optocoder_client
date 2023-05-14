@@ -1,0 +1,90 @@
+.welcome-page {
+    float: left;
+    width: 100%;
+}
+
+.welcome-heading img {
+    width: 60px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+.welcome-heading h2 {
+    font-size: 25px;
+    line-height: 30px;
+    ;
+    margin-bottom: 0;
+}
+
+.heading-welcome {
+    font-weight: 200;
+    text-align: center;
+}
+
+.quick-start {
+    float: left;
+    width: 100%;
+    margin-top: 45px;
+}
+
+.quick-start-box {
+    /* border: 1px solid #d5d9de; */
+    margin: 30px 0;
+    padding: 30px 40px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.quick-start-box img {
+    width: 80px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.quick-start-box p {
+    text-align: center;
+    color: #545454;
+    font-weight: 400;
+    float: left;
+    margin-bottom: 22px;
+    width: 100%;
+}
+
+.quick-start-box h4 {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.quick-start-box a {
+    background: #0056b3;
+    padding: 10px 20px;
+    border-radius: 40px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #fff;
+    transition: all .5s;
+}
+
+.quick-start-box a:hover {
+    background: #0573e7;
+    text-decoration: none;
+}
+
+.content-area {
+    background: #ffffff !important;
+}
+
+.title-bar {
+    display: none !important;
+}
+
+.card-header {
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.card-ico-back span {
+    font-size: 1.3rem;
+    color: white;
+}

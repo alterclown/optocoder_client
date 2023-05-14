@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="238b1fc5-ea8e-41b5-9f3f-618ca44c066d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo/demo.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo/demo.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo/demo.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo/demo.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo1/demo1.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo1/demo1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo1/demo1.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo1/demo1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo2/demo2.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo2/demo2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo2/demo2.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/demo2/demo2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/footer/footer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/header/header.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/sidebar/sidebar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/sidebar/sidebar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/sidebar/sidebar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/user-module/sidebar/sidebar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/auth-services/AuthService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/auth-services/authGuard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/model/Role.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/model/User.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/chartist-plugin-tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/chartist.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/webfonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/icons/webfonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/chartist-plugin-tooltip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/chartist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/jquery.sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PkXSR7px2ErpQBWi4T0ng4snD3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Optocoder/optocoder_software/optocoder_client/optocoder-client",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="238b1fc5-ea8e-41b5-9f3f-618ca44c066d" name="Changes" comment="" />
+      <created>1684002056346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684002056346</updated>
+      <workItem from="1684002057855" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

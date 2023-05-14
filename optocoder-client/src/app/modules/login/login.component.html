@@ -1,0 +1,45 @@
+<div class="container">
+    <div class="row">
+        <div id="loginbox" class="col-md-8 col-lg-4 mx-auto CenteringContent login-widht"
+             title="Sentra Enterprise Admin Panel">
+            <div class="panel-info m-t-20">
+
+                <div class="logo text-center m-b-20">
+                    <img src="assets/image/truck.png" class="img img-responsive login-image mb-3" alt="Sentra">
+                </div>
+                <div class="panel-heading">
+                    <div class="panel-title text-center">
+                        <h5>Vehicle Management System</h5>
+                    </div>
+                </div>
+                <div class="panel-body m-t-20">
+
+                    <form  class="form-horizontal">
+                        <div class="input-group m-b-10 mt-4 mb-4">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-user"></i></span>
+                            </div>
+                            <input name="userName"  required type="text"
+                                   class="form-control login-form-height" placeholder="user name" tabindex="1">
+                        </div>
+                        <div class="input-group m-b-10 mt-3 mb-4">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-lock"></i></span>
+                            </div>
+                            <input name="password"  tooltip required
+                                   class="form-control login-form-height" type="password" placeholder="password"
+                                   tabindex="2">
+                        </div>
+                        <div style="margin-top:10px" class="form-group">
+
+                            <div class="col-sm-12 controls text-center p-0">
+                                <button  id="btnLogin" type="submit" class="btn btn-info" tabindex="3" (click)="onSubmit()">Login
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
